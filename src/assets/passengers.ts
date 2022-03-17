@@ -14,6 +14,7 @@ export interface Passenger {
   baggage?: stringOrUndefined;
 }
 
+
 export const passengers: Passenger[] = [
   {
     id: 1,
